@@ -10,5 +10,6 @@ class first{
         first1 f1 = new second();
         first1 f2 = new second();
         first1 f3 = new second();
+        first1 f4 = new second();
     }
 }
